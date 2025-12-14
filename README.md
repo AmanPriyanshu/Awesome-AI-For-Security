@@ -126,6 +126,7 @@ Software tools that implement AI for security applications.
 ### Security Testing
 
 - [garak](https://github.com/leondz/garak/) - Specialized security probing tool designed specifically for LLM vulnerability assessment.
+- [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 
