@@ -12,6 +12,7 @@ Found this resource helpful for your security research? Consider adding a star â
 - [Datasets](#datasets)
   - [Pre-Training Datasets](#pre-training-datasets)
   - [IFT & Capability Datasets](#ift--capability-datasets)
+    - [Security Benchmarks & Vulnerability Datasets](#security-benchmarks--vulnerability-datasets)
 - [Benchmarks & Evaluation](#benchmarks--evaluation)
   - [Vulnerability Assessment](#vulnerability-assessment)
   - [Threat Intelligence](#threat-intelligence)
@@ -65,6 +66,10 @@ Resources designed for training and fine-tuning AI systems on security-related t
 ### IFT & Capability Datasets
 - [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning) - Cybersecurity reasoning tasks with o1-generated reasoning steps and reflection processes.
 - [Primus-Instruct](https://huggingface.co/datasets/trendmicro-ailab/Primus-Instruct) - Expert-curated cybersecurity scenario instructions with GPT-4o generated responses spanning diverse tasks.
+
+### Security Benchmarks & Vulnerability Datasets
+
+- [AI AppSec Index](https://github.com/alpha-one-index/ai-appsec-index) - Open-source reference with 6 structured datasets covering AI remediation benchmarks, ASPM vendor matrix, 48+ real CVEs in AI-generated code, EU CRA compliance mapping, and SAST false positive rates. Available in JSON/CSV with an interactive dashboard.
 
 ## Benchmarks & Evaluation
 
