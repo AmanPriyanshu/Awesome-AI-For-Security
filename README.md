@@ -29,6 +29,7 @@ Found this resource helpful for your security research? Consider adding a star â
 - [Security Agents](#security-agents)
   - [Autonomous Agents](#autonomous-agents)
   - [Red Team Agents](#red-team-agents)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered security operations: supply chain security (SBOM, SLSA, Cosign), Kyverno policy enforcement, and AI/ML workload access controls. CNCF Sandbox project.
 
 ## Related Awesomes Lists
 
