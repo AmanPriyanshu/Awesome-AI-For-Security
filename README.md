@@ -150,6 +150,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 
 - [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows with automated detection.
+- [APort](https://aport.io) - Agent identity verification and runtime policy enforcement for autonomous AI workflows.
 - [Fraim](https://github.com/fraim-dev/fraim) A flexible framework for security teams to build and deploy AI-powered workflows.
 
 ### Red Team Agents
