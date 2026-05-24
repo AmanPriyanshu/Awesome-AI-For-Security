@@ -156,6 +156,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 
 - [HackGPT](https://github.com/NoDataFound/hackGPT) - LLM-powered tool designed specifically for offensive security and ethical hacking.
 - [agentic_security](https://github.com/msoedov/agentic_security/) - LLM vulnerability scanner specializing in agentic systems and workflows.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Contribute
 
