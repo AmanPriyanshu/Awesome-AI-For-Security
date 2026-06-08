@@ -152,6 +152,8 @@ AI systems designed to perform security-related tasks with varying degrees of au
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows with automated detection.
 - [Fraim](https://github.com/fraim-dev/fraim) A flexible framework for security teams to build and deploy AI-powered workflows.
 
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain behavioral trust scoring MCP server for AI security agents on Solana. Verify AI agent wallet identity and behavioral history before granting access to sensitive security data. Tools: score_agent(wallet), preflight_check(wallet), get_trust_receipt(wallet). Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Red Team Agents
 
 - [HackGPT](https://github.com/NoDataFound/hackGPT) - LLM-powered tool designed specifically for offensive security and ethical hacking.
