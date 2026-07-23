@@ -12,7 +12,7 @@ Found this resource helpful for your security research? Consider adding a star â
 - [Datasets](#datasets)
   - [Pre-Training Datasets](#pre-training-datasets)
   - [IFT & Capability Datasets](#ift--capability-datasets)
-    - [Security Benchmarks & Vulnerability Datasets](#security-benchmarks--vulnerability-datasets)
+    - [Security & Vulnerability Datasets](#security--vulnerability-datasets)
 - [Benchmarks & Evaluation](#benchmarks--evaluation)
   - [Vulnerability Assessment](#vulnerability-assessment)
   - [Threat Intelligence](#threat-intelligence)
@@ -46,6 +46,8 @@ AI models specialized for security applications and scenarios.
 
 ### Specialized Security Models
 
+- [Antares-1B](https://huggingface.co/fdtn-ai/antares-1b) - 1B parameter terminal agent for vulnerability localization; runs on a consumer GPU, navigating repos via shell commands to pinpoint files matching a given CWE, outperforming much larger models like GLM-5.2 (753B) and GPT-5 on VLoc Bench.
+- [Antares-350M](https://huggingface.co/fdtn-ai/antares-350m) - 350M parameter terminal agent for vulnerability localization, small enough to run CPU-only; outperforms GPT-5 Mini, GPT-OSS-120B, MiniMax-M2.7, and other much larger models on VLoc Bench.
 - [Foundation-Sec-8B-Reasoning](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Reasoning) - 8B parameter model extending Foundation-Sec-8B with reasoning capabilities, enabling test-time compute for complex security analysis and achieving state-of-the-art performance on CTI benchmarks.
 - [Foundation-Sec-1.1-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-1.1-8B-Instruct) - Latest 8B parameter Foundation-Sec model with extended 64k context window, enabling processing of longer security documents and incident reports while maintaining strong performance on cybersecurity tasks.
 - [Foundation-Sec-8B-Instruct](https://huggingface.co/fdtn-ai/Foundation-Sec-8B-Instruct) - Instruction-tuned 8B parameter security model, designed as a chat-native copilot for cybersecurity workflows including SOC automation, threat defense, and security engineering.
@@ -67,7 +69,7 @@ Resources designed for training and fine-tuning AI systems on security-related t
 - [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning) - Cybersecurity reasoning tasks with o1-generated reasoning steps and reflection processes.
 - [Primus-Instruct](https://huggingface.co/datasets/trendmicro-ailab/Primus-Instruct) - Expert-curated cybersecurity scenario instructions with GPT-4o generated responses spanning diverse tasks.
 
-### Security Benchmarks & Vulnerability Datasets
+### Security & Vulnerability Datasets
 
 - [AI AppSec Index](https://github.com/alpha-one-index/ai-appsec-index) - Open-source reference with 6 structured datasets covering AI remediation benchmarks, ASPM vendor matrix, 48+ real CVEs in AI-generated code, EU CRA compliance mapping, and SAST false positive rates. Available in JSON/CSV with an interactive dashboard.
 
@@ -77,6 +79,7 @@ This section covers frameworks and methodologies for evaluating AI systems withi
 
 ### Vulnerability Assessment
 
+- [VLoc Bench](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)) - Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.
 - [AutoPatchBench](https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/) - Benchmark for automated repair of fuzzing-detected vulnerabilities, pioneering evaluation standards.
 - [SecLLMHolmes](https://github.com/ai4cloudops/SecLLMHolmes) - Automated framework for systematic LLM vulnerability detection evaluation across multiple dimensions.
 
