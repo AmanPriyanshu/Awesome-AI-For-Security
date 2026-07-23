@@ -79,7 +79,7 @@ This section covers frameworks and methodologies for evaluating AI systems withi
 
 ### Vulnerability Assessment
 
-- [VLoc Bench](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)) - Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.
+- [VLoc Bench](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark) - Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.
 - [AutoPatchBench](https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/) - Benchmark for automated repair of fuzzing-detected vulnerabilities, pioneering evaluation standards.
 - [SecLLMHolmes](https://github.com/ai4cloudops/SecLLMHolmes) - Automated framework for systematic LLM vulnerability detection evaluation across multiple dimensions.
 
