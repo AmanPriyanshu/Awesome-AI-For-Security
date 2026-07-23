@@ -157,6 +157,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 ### Red Team Agents
 
 - [HackGPT](https://github.com/NoDataFound/hackGPT) - LLM-powered tool designed specifically for offensive security and ethical hacking.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through human readable Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
 - [agentic_security](https://github.com/msoedov/agentic_security/) - LLM vulnerability scanner specializing in agentic systems and workflows.
 
 ## Contribute
