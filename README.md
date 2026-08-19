@@ -139,6 +139,7 @@ Software tools that implement AI for security applications.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
+- [MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) - Deterministic payment policy guardrail for AI agents: enforces pre-action budgets, allowlists, rate limits, and signed Ed25519 mandates with zero LLM in the decision path. Includes a tamper-evident SHA-256 audit ledger and official MCP server.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
 
 ### Learning Environments
