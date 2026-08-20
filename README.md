@@ -140,6 +140,7 @@ Software tools that implement AI for security applications.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+- [Vooda](https://github.com/virantisofficial/vooda.ai) - Self-hosted secrets detection platform using AI triage to classify findings as true or false positives with confidence scores, plus live credential verification and non-human identity governance.
 
 ### Learning Environments
 
