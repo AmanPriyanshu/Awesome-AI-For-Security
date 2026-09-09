@@ -158,6 +158,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 - [Fraim](https://github.com/fraim-dev/fraim) A flexible framework for security teams to build and deploy AI-powered workflows.
 - [Cynative](https://github.com/cynative/cynative) - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
 - [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) - Agentic security-review harness for Rust projects that autonomously finds, triages, fuzz-verifies, reports, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust issues.
+- [http-detection-agent](https://github.com/ai-blueteam/http-detection-agent) - Capability-aware HTTP attack detection: Rust CLI, local MCP companion, and portable Codex/Claude Code skills.
 
 ### Red Team Agents
 
