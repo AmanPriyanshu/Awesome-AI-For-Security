@@ -154,6 +154,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 
 - [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows with automated detection.
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Local-first autonomous security agent for research infrastructure, CTF and pentest workflows, ML security experiments, and agent credential handling.
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.
 - [Fraim](https://github.com/fraim-dev/fraim) A flexible framework for security teams to build and deploy AI-powered workflows.
 - [Cynative](https://github.com/cynative/cynative) - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
