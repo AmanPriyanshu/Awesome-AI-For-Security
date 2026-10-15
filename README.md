@@ -141,6 +141,8 @@ Software tools that implement AI for security applications.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
 
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
+
 ### Learning Environments
 
 - [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
