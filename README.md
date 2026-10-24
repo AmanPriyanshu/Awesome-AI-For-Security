@@ -140,6 +140,7 @@ Software tools that implement AI for security applications.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Open-source prompt-injection firewall, published honeypot blocklist (`data/honeypots.json`), and MCP security server (`https://doomsday.network/mcp`) that screens untrusted GitHub repositories for trap signatures and classifies open-source issues before coding agents execute tasks.
 
 ### Learning Environments
 
