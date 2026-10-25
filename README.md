@@ -140,6 +140,7 @@ Software tools that implement AI for security applications.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### Learning Environments
 
