@@ -167,6 +167,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 - [agentic_security](https://github.com/msoedov/agentic_security/) - LLM vulnerability scanner specializing in agentic systems and workflows.
 - [HunterX](https://github.com/nullc0d30/HunterX) - Open source AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows.
 - [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) - Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
+- [RedAmon](https://github.com/samugit83/redamon) - Open-source autonomous red team agent that chains reconnaissance, exploitation from a Kali sandbox and post-exploitation behind human approval gates, then opens pull requests that fix what it finds.
 
 ## Contribute
 
