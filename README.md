@@ -143,6 +143,7 @@ Software tools that implement AI for security applications.
 
 ### Learning Environments
 
+- [Prompt Injection Lab](https://github.com/Excession-Labs/prompt-injection-lab) - Lab tests indirect prompt injection against a tool-using support agent; code and data are MIT licensed.
 - [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
 - [Deep-pwning](https://github.com/cchio/deep-pwning) - Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.
 
