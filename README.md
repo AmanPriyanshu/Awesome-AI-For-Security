@@ -140,6 +140,7 @@ Software tools that implement AI for security applications.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+- [HOL Guard](https://hol.org/guard) - Free, open-source local control layer for AI coding agents. Checks shell commands, secret reads, MCP tool calls and package installs before they run, and pauses risky ones for approval.
 
 ### Learning Environments
 
