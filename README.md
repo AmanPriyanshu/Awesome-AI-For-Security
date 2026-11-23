@@ -140,6 +140,7 @@ Software tools that implement AI for security applications.
 - [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 - [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanning tool specifically designed for Model Context Protocol servers.
 - [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
+- [VibeShield & Vibe Security Checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT pre-launch security guardrails for AI-built web apps (`.cursor/rules/security.mdc`, zero-dependency bundle secret scanner, 8 deployment/RLS configs) paired with a free passive 116-check live URL & Observatory header scanner.
 
 ### Learning Environments
 
